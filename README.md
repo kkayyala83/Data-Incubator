@@ -1,4 +1,5 @@
-this is my first .md file created for first DataScience project using 
-nano first time and saved to git first time.
-I have uploaded R code for project proposal and 2 graphs (outcomes).
+# My First Git Repo
+## My First Data Science Project
+### And I aim a longer journey here!
 
+This is my first repo containing files resulting from my __first Data Science__ project.
